@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\MercadoLibre;
+namespace SocialiteProviders\MercadoPago;
 
 use GuzzleHttp\RequestOptions;
 use SocialiteProviders\Manager\OAuth2\AbstractProvider;
